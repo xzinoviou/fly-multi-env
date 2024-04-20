@@ -13,7 +13,7 @@ Project was created with the following requirements:
 ---
 
 You will also need to create the following list of env variables (or declare your own based on the environments you will create) 
-and replace the asterisks by providing values.
+and by providing values as a replacement for the asterisks.
 
 
 ```shell
